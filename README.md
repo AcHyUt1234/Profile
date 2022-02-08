@@ -1,3 +1,4 @@
-### Standard profile page made in HTML and CSS.
+#### Standard profile page made in HTML & CSS, and hosted on github pages.
 
-Hosted on github pages: achyut1234.github.io/Profile/
+Click [here](https://achyut1234.github.io/Profile/) to view. 
+
